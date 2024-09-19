@@ -16,11 +16,10 @@
 ## 技术栈
 
 - **编程语言**：Python, Java
-- **深度学习框架**：PyTorch, TensorFlow, Keras
-- **计算机视觉**：OpenCV, YOLO, Mask-RCNN, ViT (Vision Transformer)
+- **深度学习框架**：PyTorch
 - **神经网络架构**：
   - **卷积神经网络（CNN）**：ResNet, DenseNet, AlexNet, VGG
-  - **生成对抗网络（GAN）**：DCGAN, CycleGAN, StyleGAN
+  - **生成对抗网络（GAN）**：DCGAN, CycleGAN
   - **图神经网络（GNN）**：GCN, GAT
   - **自注意力机制与Transformer模型**：ViT
 - **工具与平台**：Git, Docker，CUDA
