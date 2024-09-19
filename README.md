@@ -15,7 +15,7 @@
 
 ## 技术栈
 
-- **编程语言**：Python, C++, Java
+- **编程语言**：Python, Java
 - **深度学习框架**：PyTorch, TensorFlow, Keras
 - **计算机视觉**：OpenCV, YOLO, Mask-RCNN, ViT (Vision Transformer)
 - **神经网络架构**：
