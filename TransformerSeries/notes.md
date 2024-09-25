@@ -88,12 +88,6 @@ Transformer 模型最初是为自然语言处理（NLP）设计的，但后来�
 3. 应用 ViT 于摔倒检测任务，并通过开源代码和预训练模型优化性能。
 """
 
-# Write the content to a markdown file
-with open("/mnt/data/transformer_vit_notes.md", "w") as file:
-    file.write(content)
-
-"/mnt/data/transformer_vit_notes.md"
-
 
 
 
